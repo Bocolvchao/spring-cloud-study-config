@@ -1,6 +1,9 @@
 server:
   port: 8001
 
+lvchao:
+  test: 12345678
+
 spring:
   application:
     name: cloud-provider-lc-payment
